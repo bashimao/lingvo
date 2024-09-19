@@ -232,9 +232,9 @@ filegroup(
 )
 """,
         urls = [
-            "https://github.com/protocolbuffers/protobuf/releases/download/v21.9/protoc-21.9-linux-x86_64.zip",
+            "https://github.com/protocolbuffers/protobuf/releases/download/v21.9/protoc-21.9-linux-aarch_64.zip",
         ],
-        sha256 = "3cd951aff8ce713b94cde55e12378f505f2b89d47bf080508cf77e3934f680b6",
+        sha256 = "a584286dfa8ebb17032ece206ed74d5e9931e2edb9016e427be2a0dab3b21071",
     )
 
 def icu():
