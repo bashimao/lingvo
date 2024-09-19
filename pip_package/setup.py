@@ -46,7 +46,7 @@ REQUIRED_PACKAGES = [
     'sympy',
     'tensorflow-datasets',
     'tensorflow-hub',
-    'tensorflow-probability',
+    #'tensorflow-probability',
     'tensorflow-text~=2.13.0',
     'tensorflow~=2.13.0',
 ]
